@@ -1,18 +1,11 @@
 # Practica 11
 ## Introducción
 En esta práctica se mostrará paso a paso como instalar los materiales necesarios para crear una base de datos y hacer su conexión con WOKWI.
-## Requisistos previos
+## Requisitos previos
 1. Entrar a la pagina https://www.apachefriends.org/ .
 2. Descargar XAMPP for Windows (8.2.4).
-
-
-![]()
-
-
-
 3. Se les decargara un archivo llamado xampp-windows-x64-8.2.4-0VS16-installer. 
-
-4, Ejecutamos el archivo en modo administrador e instalamos.
+4. Ejecutamos el archivo en modo administrador e instalamos.
 
 ## Materiales a utilizar
 + NODE-RED
@@ -25,7 +18,8 @@ En esta práctica se mostrará paso a paso como instalar los materiales necesari
 3. Le damos doble click al boton Admin.
 4. Una vez en phpMyAdmin creamos una tabla con los sig. criterios
 
-   ![]()
+   ![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/criterios%20de%20la%20tabla%20de%20mysql.png?raw=true
+dashbord)
 
 ## Intrucciones en NODE-RED
 1. Damos clic en las 3 lineas que estan en la parte superior del lado derecho.
@@ -47,7 +41,7 @@ return msg;
    
 NODE RED SE DEBE VISUALIZAR ASI
 
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/bloques%20de%20nodered.png?raw=true)
 
 ## Instrucciones en WOKWI
 
@@ -200,7 +194,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 3. Realizar las sig. conexiones.
 
 
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/wowki.png?raw=true)
 
 
 
@@ -212,7 +206,7 @@ Resultados en NODE- RED
 
 
 
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/dasbord%20de%20nodered.png?raw=true)
 
 
 
@@ -222,4 +216,4 @@ Resultados en base de datos de MySQL
 
 
 
-![]() 
+![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/resultados%20bases%20de%20datos.png?raw=true) 
