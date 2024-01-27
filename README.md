@@ -218,3 +218,6 @@ Resultados en base de datos de MySQL
 
 
 ![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/resultados%20bases%20de%20datos.png?raw=true) 
+
+## Créditos
+Elaborado por el Ing. Alejandro Barrera
