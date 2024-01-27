@@ -20,8 +20,7 @@ En esta práctica se mostrará paso a paso como instalar los materiales necesari
 3. Le damos doble click al boton Admin.
 4. Una vez en phpMyAdmin creamos una tabla con los sig. criterios
 
-   ![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/criterios%20de%20la%20tabla%20de%20mysql.png?raw=true
-dashbord)
+   ![](https://github.com/AlejandroBarreraU/Practica-11/blob/main/criterios%20de%20la%20tabla%20de%20mysql.png?raw=true)
 
 ## Intrucciones en NODE-RED
 1. Damos clic en las 3 lineas que estan en la parte superior del lado derecho.
