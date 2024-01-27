@@ -1,7 +1,9 @@
 # Practica 11
 ## Introducción
+
 En esta práctica se mostrará paso a paso como instalar los materiales necesarios para crear una base de datos y hacer su conexión con WOKWI.
 ## Requisitos previos
+
 1. Entrar a la pagina https://www.apachefriends.org/ .
 2. Descargar XAMPP for Windows (8.2.4).
 3. Se les decargara un archivo llamado xampp-windows-x64-8.2.4-0VS16-installer. 
